@@ -1,0 +1,8 @@
+com\iitu\taskflow\project\ProjectServiceApplication.class
+com\iitu\taskflow\project\repository\ProjectRepository.class
+com\iitu\taskflow\project\controller\ProjectController.class
+com\iitu\taskflow\project\model\Project.class
+com\iitu\taskflow\project\service\ProjectServiceImpl.class
+com\iitu\taskflow\project\config\SecurityConfig.class
+com\iitu\taskflow\project\config\WebConfig.class
+com\iitu\taskflow\project\service\ProjectService.class

@@ -1,0 +1,13 @@
+com\iitu\taskflow\task\config\Auth0Properties.class
+com\iitu\taskflow\task\mapper\TaskMapper.class
+com\iitu\taskflow\task\model\TaskStatus.class
+com\iitu\taskflow\task\TaskServiceApplication.class
+com\iitu\taskflow\task\model\TaskPriority.class
+com\iitu\taskflow\task\config\SecurityConfig.class
+com\iitu\taskflow\task\dto\TaskRequestDTO.class
+com\iitu\taskflow\task\repository\TaskRepository.class
+com\iitu\taskflow\task\dto\TaskResponseDTO.class
+com\iitu\taskflow\task\model\Task.class
+com\iitu\taskflow\task\config\AudienceValidator.class
+com\iitu\taskflow\task\config\WebConfig.class
+com\iitu\taskflow\task\controller\TaskController.class

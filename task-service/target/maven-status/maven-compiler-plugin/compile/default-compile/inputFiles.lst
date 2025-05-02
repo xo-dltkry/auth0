@@ -1,0 +1,13 @@
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\config\AudienceValidator.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\config\Auth0Properties.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\config\SecurityConfig.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\config\WebConfig.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\controller\TaskController.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\dto\TaskRequestDTO.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\dto\TaskResponseDTO.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\mapper\TaskMapper.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\model\Task.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\model\TaskPriority.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\model\TaskStatus.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\repository\TaskRepository.java
+C:\Users\nurmu\Desktop\TaskFlow\task-service\src\main\java\com\iitu\taskflow\task\TaskServiceApplication.java
